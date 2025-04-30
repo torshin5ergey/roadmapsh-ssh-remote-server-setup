@@ -2,6 +2,13 @@
 
 This is my solution to the [SSH Remote Server Setup project](https://roadmap.sh/projects/ssh-remote-server-setup) in the [DevOps roadmap](https://roadmap.sh/devops) from [roadmap.sh](https://roadmap.sh/)
 
+**Table of Contents**
+- [Project Requirements](#project-requirements)
+- [Prerequisites](#prerequisites)
+- [SSH Remote Server Setup Guide](#ssh-remote-server-setup-guide)
+- [Some SSH configuration Best Practices](#some-ssh-configuration-best-practices)
+- [Author](#author)
+
 ## Project Requirements
 
 - Register and setup a remote linux server on any provider.
